@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b2eccada-e87f-4f5c-af92-2328f6c16bcc}</ProjectGuid>
-    <RootNamespace>cykly</RootNamespace>
+    <ProjectGuid>{c56ddd83-d13c-4d0f-8bb6-88ab809821fe}</ProjectGuid>
+    <RootNamespace>cyklusfor2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cyklus_for.cpp" />
+    <ClCompile Include="cyklus_for2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

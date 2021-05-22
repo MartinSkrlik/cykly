@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cyklus_for.cpp">
+    <ClCompile Include="cyklus_for2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
